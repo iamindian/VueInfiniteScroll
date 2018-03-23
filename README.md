@@ -1,6 +1,6 @@
-# test-project
+# VueInfiniteScroll
 
-> A Vue.js project
+> A Vue.js Infinite Scroll Component
 
 ## Build Setup
 
